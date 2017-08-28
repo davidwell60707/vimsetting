@@ -1,3 +1,4 @@
+#!/bin/bash
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/vundle
 cp -r .vim/colors ~/.vim/colors
 cp -r .vim/ftplugin ~/.vim/ftplugin
